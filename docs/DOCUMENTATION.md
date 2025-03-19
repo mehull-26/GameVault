@@ -1,3 +1,4 @@
+# Documentation
 GameVault supports two types of save systems currently.
 
 - Registry based save system using PlayerPrefs
