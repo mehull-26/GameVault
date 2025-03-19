@@ -30,3 +30,5 @@ NOTE: doesn't support serialization of dictionaries nested within dictionaries
 - **Support for Binary Serialization (Performance Boost)**.
 
 GameVault - Making game saves seamless & flexible! 🚀
+
+[📖 Documentation](DOCUMENTATION.md)
