@@ -11,7 +11,7 @@ GameVault is a **simple, scalable, and flexible save system** for Unity. It supp
 - **Singleton-Based Architecture**: Ensures a single access point for game-wide data.
 - **Customizable Save Paths**: Users can set custom save directories.
 
-NOTE: doesn't support serialization of dictionaries nested within dictionaries
+**⭕ NOTE: doesn't support serialization of dictionaries nested within dictionaries**
 
 ## 🛠️ Installation
 
